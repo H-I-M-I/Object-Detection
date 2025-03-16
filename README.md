@@ -1,4 +1,4 @@
-**README Note: Object Detection Project**  
+**Object Detection Project**  
 
 This project demonstrates object detection using TensorFlow and TensorFlow Hub. The implementation leverages pre-trained models to detect and classify objects in images. Below are the techniques, tools, and logical steps employed:  
 
